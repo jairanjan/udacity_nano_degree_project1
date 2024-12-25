@@ -46,6 +46,7 @@ More improvement on the score can be made by tuning hyperparamets more.
 |--|--|--|--|--|--|--|
 |initial|max_bag_folds=8|num_stack_levels=3|time_limit=600|presets=best_quality|Individual Model Hyperparameters=[None]|1.80091|
 |add_features|max_bag_folds=10|num_stack_levels=4|time_limit=600|presets=best_quality|Individual Model Hyperparameters=[None]|0.74380|
+|add_features|max_bag_folds=8|num_stack_levels=3|time_limit=600|presets=best_quality|Individual Model Hyperparameters=[None]|0.58770|
 |hpo|max_bag_folds=9|num_stack_levels=3|time_limit=800|presets=None(default)|Individual Model Hyperparameters=[N.Network,LGBM]|0.57057|
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
